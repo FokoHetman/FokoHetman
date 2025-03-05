@@ -1,8 +1,8 @@
 ![](https://raw.githubusercontent.com/FokoHetman/FokoHetman/refs/heads/main/MurderDrones.png)
 ![Stats :D](https://github-readme-stats.vercel.app/api/top-langs/?username=FokoHetman&theme=dark&show_icons=true&hide_border=false&layout=compact)
 # I'm... Hetman Foko.
-Foko, but I'm a Hetman basically.
-So like I do cool stuff, I am haskell and nix-pilled however I keep my projects in rust.
+Foko, but I'm a Hetman basically.<br>
+So like I do cool stuff.<br> I am haskell and nix-pilled however I keep my projects in rust.
 <!--
 **FokoHetman/FokoHetman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
