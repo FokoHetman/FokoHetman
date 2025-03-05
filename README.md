@@ -1,5 +1,7 @@
-## Hi there 👋
-
+It's FokoHetman but I'm Hetman Foko
+ya get what I mean ye
+![](https://raw.githubusercontent.com/FokoHetman/FokoHetman/refs/heads/main/MurderDrones.png)
+![Stats :D](https://github-readme-stats.vercel.app/api/top-langs/?username=FokoHetman&theme=dark&show_icons=true&hide_border=false&layout=compact)
 <!--
 **FokoHetman/FokoHetman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
